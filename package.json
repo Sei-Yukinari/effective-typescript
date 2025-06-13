@@ -40,7 +40,7 @@
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
     "tsx": "^4.7.1",
-    "typescript": "^5.3.3",
+    "typescript": "^5.8.3",
     "rimraf": "^4.4.1",
     "glob": "^10.3.10",
     "@eslint/object-schema": "^2.1.6",
