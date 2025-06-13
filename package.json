@@ -43,8 +43,8 @@
     "typescript": "^5.3.3",
     "rimraf": "^4.4.1",
     "glob": "^10.3.10",
-    "@eslint/object-schema": "^3.0.0",
-    "@eslint/config-array": "^0.11.10"
+    "@eslint/object-schema": "^2.1.6",
+    "@eslint/config-array": "^0.20.1"
   },
   "dependencies": {
     "dotenv": "^16.5.0"
