@@ -1,8 +1,8 @@
 let num = 10;
 
-function add(a: number, b: number): number {
-  return a + b;
-}
+// function add(a: number, b: number): number {
+//   return a + b;
+// }
 
 function logMessage(message: string | null): void {
   if (message) {
