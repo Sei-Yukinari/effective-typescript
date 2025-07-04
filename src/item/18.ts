@@ -1,4 +1,4 @@
-let x: number = 12;
+let x2: number = 12;
 let y = 12;
 
 const person: {
