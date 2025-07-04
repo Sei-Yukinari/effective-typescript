@@ -28,9 +28,9 @@ const frozenArray = Object.freeze([1, 2, 3]);
 // // ^? const frozenArray: readonly number[]
 const frozenObj = Object.freeze({ x: 1, y: 2 });
 
-type Point = [number, number];
-const capitals1 = { ny: [-73.7562, 42.6526], ca: [-121.4944, 38.5816] };
-const capitals2 = {
-  ny: [-73.7562, 42.6526],
-  ca: [-121.4944, 38.5816],
-} satisfies Record<string, Point>;
+// type Point = [number, number];
+// const capitals1 = { ny: [-73.7562, 42.6526], ca: [-121.4944, 38.5816] };
+// const capitals2 = {
+//   ny: [-73.7562, 42.6526],
+//   ca: [-121.4944, 38.5816],
+// } satisfies Record<string, Point>;
